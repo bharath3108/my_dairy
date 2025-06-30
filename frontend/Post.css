@@ -1,0 +1,13 @@
+body {
+    font-family: 'Comfortaa';
+    background: #EFF6FF;
+}
+#postButton {
+    background: linear-gradient(to right, rgb(139, 92, 246), rgb(14, 165, 233));
+}
+.formDiv {
+    background: #F5F3FF;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+}
